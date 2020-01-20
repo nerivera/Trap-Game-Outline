@@ -1,0 +1,18 @@
+table {
+  position: absolute;
+  height: 100%;
+  left: 50%;
+  top: 0;
+  transform: translate(-50%, 0);
+  border-collapse: collapse;
+}
+
+.out {
+  background-color: gray;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  border-width: 0;
+}
